@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Wingman AI</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Wingman AI - Bitzmos</title>
+</head>
+<body>
+  <h1>Wingman AI 💬</h1>
+  <p style="text-align: center; max-width: 500px;">Escribe el mensaje que te mandaron o la conversacion completa y genera una respuesta atractiva, sutil e interesante.</p>
+
+  <textarea id="inputMensaje" placeholder="Ej: 'Bebé?'"></textarea>
+  <div>
+    <button class="button" onclick="generarRespuesta()">Generar Respuesta</button>
+    <button class="button" onclick="generarRespuesta()" id="btnOtra" style="display: none;">Generar Otra</button>
+  </div>
+
+  <div id="loader" class="loader" style="display: none;"></div>
+  <div id="respuesta"></div>
+</body>
+</html>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
