@@ -1,5 +1,5 @@
 const API_KEY = "AIzaSyDemTgoa5kOfS8VdNsIKxrfY0B4l4EQ1K0"; 
-    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-04-17:generateContent?key=${API_KEY}`;
 
     async function generarRespuesta() {
       const input = document.getElementById("inputMensaje").value.trim();
