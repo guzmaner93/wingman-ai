@@ -21,4 +21,4 @@ Esta aplicación utiliza **AI Gemini** para generar respuestas creativas y atrac
 1. **Clona este repositorio**:
 
    ```bash
-   git clone https://github.com/tuusuario/ai-citas-bitzmos.git
+   git clone https://github.com/tuusuario/wingman-ai-bitzmos.git
