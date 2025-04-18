@@ -1,4 +1,4 @@
-# AI Citas - Bitzmos
+# Wingman AI - Bitzmos
 
 Esta aplicación utiliza **AI Gemini** para generar respuestas creativas y atractivas para mensajes en aplicaciones de citas. La idea es ofrecer respuestas sutiles, interesantes y que ayuden a romper el hielo de manera original.
 
